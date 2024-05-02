@@ -1,2 +1,2 @@
 # project1
-goos stuff resides hare
+good stuff resides hare
